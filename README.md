@@ -19,8 +19,15 @@ pip install git+https://github.com/sberbank-ai/Real-ESRGAN.git
 
 ### Usage
 
----
+GUI Usage:
 
+```python
+streamlit run run.py
+```
+
+Or simply double click on run.bat
+
+---
 Basic usage:
 
 ```python
@@ -43,42 +50,34 @@ sr_image.save('results/sr_image.png')
 ```
 
 
-GUI Usage:
-
-```python
-streamlit run run.py
-```
-
-Or simply double click on run.bat
-
 ### Examples
 
 ---
 
 Low quality image:
 
-![](inputs/lr_1.png)
+![](inputs/lr_1.jpg)
 
 Real-ESRGAN result:
 
-![](results/sr_1.png)
+![](results/sr_1.jpg)
 
 ---
 
 Low quality image:
 
-![](inputs/lr_2.png)
+![](inputs/lr_2.jpg)
 
 Real-ESRGAN result:
 
-![](results/sr_2.png)
+![](results/sr_2.jpg)
 
 ---
 
 Low quality image:
 
-![](inputs/lr_3.png)
+![](inputs/lr_3.jpg)
 
 Real-ESRGAN result:
 
-![](results/sr_3.png)
+![](results/sr_3.jpg)
