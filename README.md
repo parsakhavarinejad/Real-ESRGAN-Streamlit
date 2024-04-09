@@ -48,34 +48,37 @@ GUI Usage:
 ```python
 streamlit run run.py
 ```
+
+Or simply double click on run.bat
+
 ### Examples
 
 ---
 
 Low quality image:
 
-![](inputs/lr_image.png)
+![](inputs/lr_1.png)
 
 Real-ESRGAN result:
 
-![](results/sr_image.png)
+![](results/sr_1.png)
 
 ---
 
 Low quality image:
 
-![](inputs/lr_face.png)
+![](inputs/lr_2.png)
 
 Real-ESRGAN result:
 
-![](results/sr_face.png)
+![](results/sr_2.png)
 
 ---
 
 Low quality image:
 
-![](inputs/lr_lion.png)
+![](inputs/lr_3.png)
 
 Real-ESRGAN result:
 
-![](results/sr_lion.png)
+![](results/sr_3.png)
