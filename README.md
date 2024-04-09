@@ -25,7 +25,12 @@ GUI Usage:
 streamlit run run.py
 ```
 
-Or simply double click on run.bat
+Or simply double click on 
+
+```python
+run.bat
+```
+
 
 ---
 Basic usage:
